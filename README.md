@@ -18,7 +18,7 @@ Python:
 - Create free twilio account: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account
 - Replace ACCNT_SID and ACCNT_TOKEN in repData.py with your account SID and TOKEN(available on dashboard)
 - Replace TWILIO_PHONE_NUMBER with number associated with your account(also available on dashboard)
-- Replace RECIPIENT_PHONE_NUMBER with the phone number of intended recipiend, formatted as '+1XXXXXXXXXX'
+- Replace RECIPIENT_PHONE_NUMBER with the phone number of intended recipient, formatted as '+1XXXXXXXXXX'
 - Connect first NodeMCU to external USB power source(not laptop)
 - Connect second NOdeMCU to laptop over USB
 - Turn on headset and run repData.py
