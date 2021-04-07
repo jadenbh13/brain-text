@@ -12,6 +12,7 @@ How to use:
 - Connect negative lead to GND pin on second NodeMCU
 - Run wire from T pin on neurosky chip to RX pin(GPIO 3)
 - Upload testBrain.ino to second NodeMCU(be sure to disconnect from RX first, won't upload correctly otherwise)
+
 Python:
 - Install matplotlib, twilio and pyserial with pip3
 - Create free twilio account: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account
